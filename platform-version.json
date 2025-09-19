@@ -1,11 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "changes": [
     {
       "type": "info",
-      "module": "Inicio",
-      "tema": "Lanzamiento inicial",
-      "note": "Sitio publicado por primera vez"
+      "module": "Modulo 1",
+      "tema": "Bienvenida Introducción metodología reunión",
+      "note": "video actualizado"
     }
   ],
   "contentUrl": "https://AnalistaSerfyneg.github.io/plataforma-datos/content.json"
