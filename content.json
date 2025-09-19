@@ -1,0 +1,229 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "mod-1",
+      "title": "MÓDULO 1 — Introducción General y Normativa",
+      "description": "",
+      "icon": "fa-briefcase",
+      "enabled": true,
+      "unlocked": true,
+      "temas": [
+        {
+          "id": "t-1",
+          "title": "Bienvenida Introducción metodología reunión",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=OYILF3hQQoQ",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": "https://forms.fillout.com/t/c1KbVvY77sus"
+        },
+        {
+          "id": "t-2",
+          "title": "Historia Serfyneg",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-3",
+          "title": "Misión",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-4",
+          "title": "Visión",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=OYILF3hQQoQ",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-5",
+          "title": "Valores Corporativos",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-6",
+          "title": "Organigrama",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-7",
+          "title": "Sistema de gestión y seguridad en el trabajo",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-8",
+          "title": "Manual interno de trabajo",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-9",
+          "title": "Evaluación Serfyneg",
+          "type": "evaluation",
+          "source": "",
+          "enabled": true,
+          "evalFillout": "https://forms.fillout.com/t/d65HV7UHWUus"
+        },
+        {
+          "id": "t-10",
+          "title": "Que es Saro",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-11",
+          "title": "Que es Sarlaft",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-12",
+          "title": "Que es Sagrilaft",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-13",
+          "title": "Ley Protección de datos",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-14",
+          "title": "Ley 1527",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-15",
+          "title": "Evaluación",
+          "type": "evaluation",
+          "source": "",
+          "enabled": true,
+          "evalFillout": "https://forms.fillout.com/t/c1KbVvY77sus"
+        }
+      ]
+    },
+    {
+      "id": "mod-2",
+      "title": "MÓDULO 2 — Sistema Financiero y Libranza",
+      "description": "",
+      "icon": "fa-briefcase",
+      "enabled": true,
+      "unlocked": false,
+      "temas": [
+        {
+          "id": "t-16",
+          "title": "Inducción Sistema Financiero",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-17",
+          "title": "Que es un crédito",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-18",
+          "title": "Perfil de Cliente",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-19",
+          "title": "Introducción a la Libranza",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-20",
+          "title": "Como Funciona un crédito de Libranza",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-21",
+          "title": "Convenios de Libranza",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-22",
+          "title": "Operadores",
+          "type": "video",
+          "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+          "enabled": true,
+          "requiresWatchPercent": 100,
+          "evalFillout": ""
+        },
+        {
+          "id": "t-23",
+          "title": "Evaluación",
+          "type": "evaluation",
+          "source": "",
+          "enabled": true,
+          "evalFillout": "https://forms.fillout.com/t/d65HV7UHWUus"
+        }
+      ]
+    }
+  ]
+}
