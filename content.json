@@ -16,7 +16,7 @@
           "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
           "enabled": true,
           "requiresWatchPercent": 100,
-          "evalFillout": "https://forms.fillout.com/t/c1KbVvY77sus"
+          "evalFillout": ""
         },
         {
           "id": "t-2",
@@ -34,7 +34,7 @@
           "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
           "enabled": true,
           "requiresWatchPercent": 100,
-          "evalFillout": "https://forms.fillout.com/t/c1KbVvY77sus"
+          "evalFillout": ""
         },
         {
           "id": "t-4",
@@ -52,7 +52,7 @@
           "source": "https://www.youtube.com/watch?v=OYILF3hQQoQ",
           "enabled": true,
           "requiresWatchPercent": 100,
-          "evalFillout": "https://forms.fillout.com/t/c1KbVvY77sus"
+          "evalFillout": ""
         },
         {
           "id": "t-6",
